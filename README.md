@@ -1,2 +1,3 @@
-# POSTECH 24-1 CSED232
- objected-oriented programming
+# CSED232
+ 2024-1 objected-oriented programming
+

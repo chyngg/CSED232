@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502AA3-2133-4D92-8F70-6DF03051F7AC}|Assn6\\Assn6.vcxproj|C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F502AA3-2133-4D92-8F70-6DF03051F7AC}|Assn6\\Assn6.vcxproj|solutionrelative:Assn6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502AA3-2133-4D92-8F70-6DF03051F7AC}|Assn6\\Assn6.vcxproj|C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F502AA3-2133-4D92-8F70-6DF03051F7AC}|Assn6\\Assn6.vcxproj|solutionrelative:Assn6\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502AA3-2133-4D92-8F70-6DF03051F7AC}|Assn6\\Assn6.vcxproj|C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\MultiHeadList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F502AA3-2133-4D92-8F70-6DF03051F7AC}|Assn6\\Assn6.vcxproj|solutionrelative:Assn6\\MultiHeadList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F502AA3-2133-4D92-8F70-6DF03051F7AC}|Assn6\\Assn6.vcxproj|C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\Syllogism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F502AA3-2133-4D92-8F70-6DF03051F7AC}|Assn6\\Assn6.vcxproj|solutionrelative:Assn6\\Syllogism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiHeadList.h",
+              "DocumentMoniker": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\MultiHeadList.h",
+              "RelativeDocumentMoniker": "Assn6\\MultiHeadList.h",
+              "ToolTip": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\MultiHeadList.h",
+              "RelativeToolTip": "Assn6\\MultiHeadList.h",
+              "ViewState": "AQIAACABAAAAAAAAAAAuwDEBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T05:07:57.107Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\test.cpp",
+              "RelativeDocumentMoniker": "Assn6\\test.cpp",
+              "ToolTip": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\test.cpp",
+              "RelativeToolTip": "Assn6\\test.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T05:07:44.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\main.cpp",
+              "RelativeDocumentMoniker": "Assn6\\main.cpp",
+              "ToolTip": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\main.cpp",
+              "RelativeToolTip": "Assn6\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T05:07:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Syllogism.cpp",
+              "DocumentMoniker": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\Syllogism.cpp",
+              "RelativeDocumentMoniker": "Assn6\\Syllogism.cpp",
+              "ToolTip": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn6\\Assn6\\Assn6\\Syllogism.cpp",
+              "RelativeToolTip": "Assn6\\Syllogism.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T05:07:19.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

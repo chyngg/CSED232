@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn3\\prob2_20230642\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{508E4F3A-E528-4C49-A05A-70FEF6D5DF97}|prob2_20230642\\prob2_20230642.vcxproj|C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn3\\prob2_20230642\\prob2_20230642\\prob2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{508E4F3A-E528-4C49-A05A-70FEF6D5DF97}|prob2_20230642\\prob2_20230642.vcxproj|solutionrelative:prob2_20230642\\prob2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508E4F3A-E528-4C49-A05A-70FEF6D5DF97}|prob2_20230642\\prob2_20230642.vcxproj|C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn3\\prob2_20230642\\prob2_20230642\\prob2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{508E4F3A-E528-4C49-A05A-70FEF6D5DF97}|prob2_20230642\\prob2_20230642.vcxproj|solutionrelative:prob2_20230642\\prob2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prob2.h",
+              "DocumentMoniker": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn3\\prob2_20230642\\prob2_20230642\\prob2.h",
+              "RelativeDocumentMoniker": "prob2_20230642\\prob2.h",
+              "ToolTip": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn3\\prob2_20230642\\prob2_20230642\\prob2.h",
+              "RelativeToolTip": "prob2_20230642\\prob2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T15:00:39.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prob2.cpp",
+              "DocumentMoniker": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn3\\prob2_20230642\\prob2_20230642\\prob2.cpp",
+              "RelativeDocumentMoniker": "prob2_20230642\\prob2.cpp",
+              "ToolTip": "C:\\Users\\freej\\OneDrive\\\uBB38\uC11C\\POSTECH\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D\\Assignment\\Assn3\\prob2_20230642\\prob2_20230642\\prob2.cpp",
+              "RelativeToolTip": "prob2_20230642\\prob2.cpp",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAIgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T15:00:28.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

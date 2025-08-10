@@ -1,0 +1,108 @@
+﻿  main.cpp
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(145,42): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(145,42):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\Syllogism.cpp(10,37):
+  	컴파일되는 클래스 템플릿 인스턴스화 'MultiHeadList<std::pair<std::string,std::string>>'에 대한 참조를 확인하세요.
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(145,9):
+  	클래스 템플릿 멤버 함수 'int MultiHeadList<std::pair<std::string,std::string>>::headSize(void)'을(를) 컴파일하는 중입니다.
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\Syllogism.cpp(23,8):
+  		'Syllogism::operator ++'에서 'MultiHeadList<std::pair<std::string,std::string>>::headSize'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(353,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(353,31):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(8,22):
+  	컴파일되는 클래스 템플릿 인스턴스화 'MultiHeadList<int>'에 대한 참조를 확인하세요.
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(328,10):
+  	클래스 템플릿 멤버 함수 'bool MultiHeadList<int>::erase(MultiHeadList<int>::Iterator)'을(를) 컴파일하는 중입니다.
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(59,15):
+  		'Test::test'에서 'MultiHeadList<int>::erase'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(285,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(285,27):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(283,10):
+  	클래스 템플릿 멤버 함수 'bool MultiHeadList<int>::erase(const T &,int)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=int
+          ]
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(47,15):
+  		'Test::test'에서 'MultiHeadList<int>::erase'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(244,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(244,27):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(242,10):
+  	클래스 템플릿 멤버 함수 'void MultiHeadList<int>::pop_front(int)'을(를) 컴파일하는 중입니다.
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(38,19):
+  		'Test::test'에서 'MultiHeadList<int>::pop_front'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(213,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(213,27):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(211,10):
+  	클래스 템플릿 멤버 함수 'void MultiHeadList<int>::pop_back(int)'을(를) 컴파일하는 중입니다.
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(28,18):
+  		'Test::test'에서 'MultiHeadList<int>::pop_back'에 대한 첫 번째 참조를 확인하세요.
+  
+  test.cpp
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(353,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'test.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(353,31):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(8,22):
+  	컴파일되는 클래스 템플릿 인스턴스화 'MultiHeadList<int>'에 대한 참조를 확인하세요.
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(328,10):
+  	클래스 템플릿 멤버 함수 'bool MultiHeadList<int>::erase(MultiHeadList<int>::Iterator)'을(를) 컴파일하는 중입니다.
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(59,15):
+  		'Test::test'에서 'MultiHeadList<int>::erase'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(285,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'test.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(285,27):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(283,10):
+  	클래스 템플릿 멤버 함수 'bool MultiHeadList<int>::erase(const T &,int)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=int
+          ]
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(47,15):
+  		'Test::test'에서 'MultiHeadList<int>::erase'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(244,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'test.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(244,27):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(242,10):
+  	클래스 템플릿 멤버 함수 'void MultiHeadList<int>::pop_front(int)'을(를) 컴파일하는 중입니다.
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(38,19):
+  		'Test::test'에서 'MultiHeadList<int>::pop_front'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(213,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'test.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(213,27):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(211,10):
+  	클래스 템플릿 멤버 함수 'void MultiHeadList<int>::pop_back(int)'을(를) 컴파일하는 중입니다.
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(28,18):
+  		'Test::test'에서 'MultiHeadList<int>::pop_back'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(145,42): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'test.cpp'을(를) 컴파일하는 중)
+  C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(145,42):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\MultiHeadList.h(145,9):
+  	클래스 템플릿 멤버 함수 'int MultiHeadList<int>::headSize(void)'을(를) 컴파일하는 중입니다.
+  		C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\Assn6\test.cpp(66,3):
+  		'Test::print'에서 'MultiHeadList<int>::headSize'에 대한 첫 번째 참조를 확인하세요.
+  
+  코드를 생성하고 있습니다...
+  Assn6.vcxproj -> C:\Users\freej\OneDrive\문서\POSTECH\객체지향 프로그래밍\Assignment\Assn6\Assn6\x64\Debug\Assn6.exe
